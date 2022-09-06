@@ -1,7 +1,7 @@
 # Visual-Studio_Code_javaScript
 
 <h3>ATIVIDADE 1</h3>
-<h5>Defina o que seria uma linguagem de programação e descreva as principais características?</h5>
+<h4>Defina o que seria uma linguagem de programação e descreva as principais características?</h4>
 
 <p>Uma linguagem de programação é conjunto de regras na qual o programador consegue instruir
     alguma maquina a fazer uma determinada funcionalidade (algoritmo)
@@ -9,7 +9,7 @@
 
 
 <h3>ATIVIDADE 2</h3>
-<h5>Descreva as principais características da linguagem javaScript.</h5>
+<h4>Descreva as principais características da linguagem javaScript.</h4>
 
 <p>Javascript é uma linguagem interpretada que pode ser utilizada
     em multiplataformas como (desktop: Electron, back: Nodejs, frontend WEB: "React, Angular, Vue", mobile: React
@@ -17,14 +17,14 @@
     Ela fracamente tipada e conta com a maior comunidade de devs atualmente.
 </p>
 
-<h3>Atividade 3</h3>
+<h3>ATIVIDADE 3</h3>
 
-<h5>Quais ambientes o javaScript pode ser executado?</h5>
+<h4>Quais ambientes o javaScript pode ser executado?</h4>
 
 <p>(desktop: Electron, back: Nodejs, frontend WEB: "React, Angular, Vue", mobile: React Native)</p>
 
 <h3>ATIVIDADE 4</h3>
-<h5>Quais são os motivos da popularidade do javaScript na comunidade de desenvolvimento?</h5>
+<h4>Quais são os motivos da popularidade do javaScript na comunidade de desenvolvimento?</h4>
 
 <p>A grande versatilidade da linguagem de poder ser executada em vários ambientes, traz uma grande
     visibilidade, atualmente é a unica linguagem capaz de fechar com maestria todas stacks.
@@ -34,8 +34,8 @@
 
 
 <h3>ATIVIDADE 5</h3>
-<h5>Por que persistência e atenção aos detalhes são habilidades e mentalidades importantes para um desenvolvedor
-    JavaScript?</h5>
+<h4>Por que persistência e atenção aos detalhes são habilidades e mentalidades importantes para um desenvolvedor
+    JavaScript?</h4>
 
 <p>No universo da tecnologia tudo se atualiza constantemente, e não é diferente com a linguagem JavaScript,
     dessa forma persistência é uma mentalidade muito importante para conseguir se manter em constante aprendizado.
